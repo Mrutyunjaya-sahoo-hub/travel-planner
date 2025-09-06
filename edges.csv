@@ -1,0 +1,265 @@
+source,target,mode,distance_km,time_min,cost_usd,emission_kgco2,safety_score,accessible
+New York,Los Angeles,flight,3935.75,295.18,443.57,983.94,0.8,True
+New York,Los Angeles,train,3935.75,1967.87,206.79,236.14,0.8,True
+New York,Los Angeles,car,3935.75,2623.83,280.5,472.29,0.8,True
+New York,Los Angeles,bus,3935.75,3935.75,159.43,314.86,0.8,True
+New York,Chicago,flight,1144.29,85.82,164.43,286.07,0.8,True
+New York,Chicago,train,1144.29,572.15,67.21,68.66,0.8,True
+New York,Chicago,car,1144.29,762.86,85.1,137.31,0.8,True
+New York,Chicago,bus,1144.29,1144.29,47.77,91.54,0.8,True
+New York,Houston,flight,2281.34,171.1,278.13,570.34,0.8,True
+New York,Houston,train,2281.34,1140.67,124.07,136.88,0.8,True
+New York,Houston,car,2281.34,1520.9,164.69,273.76,0.8,True
+New York,Houston,bus,2281.34,2281.34,93.25,182.51,0.8,True
+New York,Miami,flight,1757.96,131.85,225.8,439.49,0.8,True
+New York,Miami,train,1757.96,878.98,97.9,105.48,0.8,True
+New York,Miami,car,1757.96,1171.97,128.06,210.96,0.8,True
+New York,Miami,bus,1757.96,1757.96,72.32,140.64,0.8,True
+New York,San Francisco,flight,4129.09,309.68,462.91,1032.27,0.8,True
+New York,San Francisco,train,4129.09,2064.54,216.45,247.75,0.8,True
+New York,San Francisco,car,4129.09,2752.72,294.04,495.49,0.8,True
+New York,San Francisco,bus,4129.09,4129.09,167.16,330.33,0.8,True
+New York,London,flight,5570.22,417.77,607.02,1392.56,0.8,True
+New York,London,train,5570.22,2785.11,288.51,334.21,0.8,True
+New York,London,car,5570.22,3713.48,394.92,668.43,0.8,True
+New York,London,bus,5570.22,5570.22,224.81,445.62,0.8,True
+New York,Paris,flight,5837.24,437.79,633.72,1459.31,0.8,True
+New York,Paris,train,5837.24,2918.62,301.86,350.23,0.8,True
+New York,Paris,car,5837.24,3891.49,413.61,700.47,0.8,True
+New York,Paris,bus,5837.24,5837.24,235.49,466.98,0.8,True
+New York,Berlin,flight,6385.0,478.88,688.5,1596.25,0.8,True
+New York,Berlin,train,6385.0,3192.5,329.25,383.1,0.8,True
+New York,Berlin,car,6385.0,4256.67,451.95,766.2,0.8,True
+New York,Berlin,bus,6385.0,6385.0,257.4,510.8,0.8,True
+New York,Madrid,flight,5768.0,432.6,626.8,1442.0,0.8,True
+New York,Madrid,train,5768.0,2884.0,298.4,346.08,0.8,True
+New York,Madrid,car,5768.0,3845.34,408.76,692.16,0.8,True
+New York,Madrid,bus,5768.0,5768.0,232.72,461.44,0.8,True
+New York,Rome,flight,6889.94,516.75,738.99,1722.48,0.8,True
+New York,Rome,train,6889.94,3444.97,354.5,413.4,0.8,True
+New York,Rome,car,6889.94,4593.29,487.3,826.79,0.8,True
+New York,Rome,bus,6889.94,6889.94,277.6,551.19,0.8,True
+New York,Amsterdam,flight,5863.22,439.74,636.32,1465.8,0.8,True
+New York,Amsterdam,train,5863.22,2931.61,303.16,351.79,0.8,True
+New York,Amsterdam,car,5863.22,3908.81,415.43,703.59,0.8,True
+New York,Amsterdam,bus,5863.22,5863.22,236.53,469.06,0.8,True
+Los Angeles,Chicago,flight,2803.97,210.3,330.4,700.99,0.8,True
+Los Angeles,Chicago,train,2803.97,1401.99,150.2,168.24,0.8,True
+Los Angeles,Chicago,car,2803.97,1869.31,201.28,336.48,0.8,True
+Los Angeles,Chicago,bus,2803.97,2803.97,114.16,224.32,0.8,True
+Los Angeles,Houston,flight,2206.26,165.47,270.63,551.57,0.8,True
+Los Angeles,Houston,train,2206.26,1103.13,120.31,132.38,0.8,True
+Los Angeles,Houston,car,2206.26,1470.84,159.44,264.75,0.8,True
+Los Angeles,Houston,bus,2206.26,2206.26,90.25,176.5,0.8,True
+Los Angeles,Miami,flight,3758.77,281.91,425.88,939.69,0.8,True
+Los Angeles,Miami,train,3758.77,1879.38,197.94,225.53,0.8,True
+Los Angeles,Miami,car,3758.77,2505.85,268.11,451.05,0.8,True
+Los Angeles,Miami,bus,3758.77,3758.77,152.35,300.7,0.8,True
+Los Angeles,San Francisco,flight,559.12,41.93,105.91,139.78,0.8,True
+Los Angeles,San Francisco,train,559.12,279.56,37.96,33.55,0.8,True
+Los Angeles,San Francisco,car,559.12,372.75,44.14,67.09,0.8,True
+Los Angeles,San Francisco,bus,559.12,559.12,24.36,44.73,0.8,True
+Los Angeles,London,flight,8755.6,656.67,925.56,2188.9,0.8,True
+Los Angeles,London,train,8755.6,4377.8,447.78,525.34,0.8,True
+Los Angeles,London,car,8755.6,5837.07,617.89,1050.67,0.8,True
+Los Angeles,London,bus,8755.6,8755.6,352.22,700.45,0.8,True
+Los Angeles,Paris,flight,9085.51,681.41,958.55,2271.38,0.8,True
+Los Angeles,Paris,train,9085.51,4542.75,464.28,545.13,0.8,True
+Los Angeles,Paris,car,9085.51,6057.01,640.99,1090.26,0.8,True
+Los Angeles,Paris,bus,9085.51,9085.51,365.42,726.84,0.8,True
+Los Angeles,Berlin,flight,9309.68,698.23,980.97,2327.42,0.8,True
+Los Angeles,Berlin,train,9309.68,4654.84,475.48,558.58,0.8,True
+Los Angeles,Berlin,car,9309.68,6206.45,656.68,1117.16,0.8,True
+Los Angeles,Berlin,bus,9309.68,9309.68,374.39,744.77,0.8,True
+Los Angeles,Madrid,flight,9362.65,702.2,986.26,2340.66,0.8,True
+Los Angeles,Madrid,train,9362.65,4681.32,478.13,561.76,0.8,True
+Los Angeles,Madrid,car,9362.65,6241.76,660.39,1123.52,0.8,True
+Los Angeles,Madrid,bus,9362.65,9362.65,376.51,749.01,0.8,True
+Los Angeles,Rome,flight,10188.99,764.17,1068.9,2547.25,0.8,True
+Los Angeles,Rome,train,10188.99,5094.49,519.45,611.34,0.8,True
+Los Angeles,Rome,car,10188.99,6792.66,718.23,1222.68,0.8,True
+Los Angeles,Rome,bus,10188.99,10188.99,409.56,815.12,0.8,True
+Los Angeles,Amsterdam,flight,8939.71,670.48,943.97,2234.93,0.8,True
+Los Angeles,Amsterdam,train,8939.71,4469.85,456.99,536.38,0.8,True
+Los Angeles,Amsterdam,car,8939.71,5959.81,630.78,1072.77,0.8,True
+Los Angeles,Amsterdam,bus,8939.71,8939.71,359.59,715.18,0.8,True
+Chicago,Houston,flight,1515.81,113.69,201.58,378.95,0.8,True
+Chicago,Houston,train,1515.81,757.9,85.79,90.95,0.8,True
+Chicago,Houston,car,1515.81,1010.54,111.11,181.9,0.8,True
+Chicago,Houston,bus,1515.81,1515.81,62.63,121.26,0.8,True
+Chicago,Miami,flight,1917.31,143.8,241.73,479.33,0.8,True
+Chicago,Miami,train,1917.31,958.65,105.87,115.04,0.8,True
+Chicago,Miami,car,1917.31,1278.21,139.21,230.08,0.8,True
+Chicago,Miami,bus,1917.31,1917.31,78.69,153.38,0.8,True
+Chicago,San Francisco,flight,2984.91,223.87,348.49,746.23,0.8,True
+Chicago,San Francisco,train,2984.91,1492.45,159.25,179.09,0.8,True
+Chicago,San Francisco,car,2984.91,1989.94,213.94,358.19,0.8,True
+Chicago,San Francisco,bus,2984.91,2984.91,121.4,238.79,0.8,True
+Chicago,London,flight,6352.98,476.47,685.3,1588.24,0.8,True
+Chicago,London,train,6352.98,3176.49,327.65,381.18,0.8,True
+Chicago,London,car,6352.98,4235.32,449.71,762.36,0.8,True
+Chicago,London,bus,6352.98,6352.98,256.12,508.24,0.8,True
+Chicago,Paris,flight,6650.63,498.8,715.06,1662.66,0.8,True
+Chicago,Paris,train,6650.63,3325.31,342.53,399.04,0.8,True
+Chicago,Paris,car,6650.63,4433.75,470.54,798.08,0.8,True
+Chicago,Paris,bus,6650.63,6650.63,268.03,532.05,0.8,True
+Chicago,Berlin,flight,7083.44,531.26,758.34,1770.86,0.8,True
+Chicago,Berlin,train,7083.44,3541.72,364.17,425.01,0.8,True
+Chicago,Berlin,car,7083.44,4722.29,500.84,850.01,0.8,True
+Chicago,Berlin,bus,7083.44,7083.44,285.34,566.68,0.8,True
+Chicago,Madrid,flight,6724.66,504.35,722.47,1681.17,0.8,True
+Chicago,Madrid,train,6724.66,3362.33,346.23,403.48,0.8,True
+Chicago,Madrid,car,6724.66,4483.11,475.73,806.96,0.8,True
+Chicago,Madrid,bus,6724.66,6724.66,270.99,537.97,0.8,True
+Chicago,Rome,flight,7740.32,580.52,824.03,1935.08,0.8,True
+Chicago,Rome,train,7740.32,3870.16,397.02,464.42,0.8,True
+Chicago,Rome,car,7740.32,5160.21,546.82,928.84,0.8,True
+Chicago,Rome,bus,7740.32,7740.32,311.61,619.23,0.8,True
+Chicago,Amsterdam,flight,6608.53,495.64,710.85,1652.13,0.8,True
+Chicago,Amsterdam,train,6608.53,3304.26,340.43,396.51,0.8,True
+Chicago,Amsterdam,car,6608.53,4405.69,467.6,793.02,0.8,True
+Chicago,Amsterdam,bus,6608.53,6608.53,266.34,528.68,0.8,True
+Houston,Miami,flight,1556.79,116.76,205.68,389.2,0.8,True
+Houston,Miami,train,1556.79,778.4,87.84,93.41,0.8,True
+Houston,Miami,car,1556.79,1037.86,113.98,186.82,0.8,True
+Houston,Miami,bus,1556.79,1556.79,64.27,124.54,0.8,True
+Houston,San Francisco,flight,2643.05,198.23,314.3,660.76,0.8,True
+Houston,San Francisco,train,2643.05,1321.52,142.15,158.58,0.8,True
+Houston,San Francisco,car,2643.05,1762.03,190.01,317.17,0.8,True
+Houston,San Francisco,bus,2643.05,2643.05,107.72,211.44,0.8,True
+Houston,London,flight,7803.15,585.24,830.32,1950.79,0.8,True
+Houston,London,train,7803.15,3901.58,400.16,468.19,0.8,True
+Houston,London,car,7803.15,5202.1,551.22,936.38,0.8,True
+Houston,London,bus,7803.15,7803.15,314.13,624.25,0.8,True
+Houston,Paris,flight,8086.0,606.45,858.6,2021.5,0.8,True
+Houston,Paris,train,8086.0,4043.0,414.3,485.16,0.8,True
+Houston,Paris,car,8086.0,5390.67,571.02,970.32,0.8,True
+Houston,Paris,bus,8086.0,8086.0,325.44,646.88,0.8,True
+Houston,Berlin,flight,8568.91,642.67,906.89,2142.23,0.8,True
+Houston,Berlin,train,8568.91,4284.46,438.45,514.13,0.8,True
+Houston,Berlin,car,8568.91,5712.61,604.82,1028.27,0.8,True
+Houston,Berlin,bus,8568.91,8568.91,344.76,685.51,0.8,True
+Houston,Madrid,flight,8048.94,603.67,854.89,2012.23,0.8,True
+Houston,Madrid,train,8048.94,4024.47,412.45,482.94,0.8,True
+Houston,Madrid,car,8048.94,5365.96,568.43,965.87,0.8,True
+Houston,Madrid,bus,8048.94,8048.94,323.96,643.92,0.8,True
+Houston,Rome,flight,9155.83,686.69,965.58,2288.96,0.8,True
+Houston,Rome,train,9155.83,4577.92,467.79,549.35,0.8,True
+Houston,Rome,car,9155.83,6103.89,645.91,1098.7,0.8,True
+Houston,Rome,bus,9155.83,9155.83,368.23,732.47,0.8,True
+Houston,Amsterdam,flight,8075.95,605.7,857.59,2018.99,0.8,True
+Houston,Amsterdam,train,8075.95,4037.97,413.8,484.56,0.8,True
+Houston,Amsterdam,car,8075.95,5383.96,570.32,969.11,0.8,True
+Houston,Amsterdam,bus,8075.95,8075.95,325.04,646.08,0.8,True
+Miami,San Francisco,flight,4169.76,312.73,466.98,1042.44,0.8,True
+Miami,San Francisco,train,4169.76,2084.88,218.49,250.19,0.8,True
+Miami,San Francisco,car,4169.76,2779.84,296.88,500.37,0.8,True
+Miami,San Francisco,bus,4169.76,4169.76,168.79,333.58,0.8,True
+Miami,London,flight,7126.89,534.52,762.69,1781.72,0.8,True
+Miami,London,train,7126.89,3563.44,366.34,427.61,0.8,True
+Miami,London,car,7126.89,4751.26,503.88,855.23,0.8,True
+Miami,London,bus,7126.89,7126.89,287.08,570.15,0.8,True
+Miami,Paris,flight,7356.57,551.74,785.66,1839.14,0.8,True
+Miami,Paris,train,7356.57,3678.28,377.83,441.39,0.8,True
+Miami,Paris,car,7356.57,4904.38,519.96,882.79,0.8,True
+Miami,Paris,bus,7356.57,7356.57,296.26,588.53,0.8,True
+Miami,Berlin,flight,7995.91,599.69,849.59,1998.98,0.8,True
+Miami,Berlin,train,7995.91,3997.96,409.8,479.75,0.8,True
+Miami,Berlin,car,7995.91,5330.61,564.71,959.51,0.8,True
+Miami,Berlin,bus,7995.91,7995.91,321.84,639.67,0.8,True
+Miami,Madrid,flight,7090.75,531.81,759.08,1772.69,0.8,True
+Miami,Madrid,train,7090.75,3545.38,364.54,425.45,0.8,True
+Miami,Madrid,car,7090.75,4727.17,501.35,850.89,0.8,True
+Miami,Madrid,bus,7090.75,7090.75,285.63,567.26,0.8,True
+Miami,Rome,flight,8339.5,625.46,883.95,2084.87,0.8,True
+Miami,Rome,train,8339.5,4169.75,426.97,500.37,0.8,True
+Miami,Rome,car,8339.5,5559.66,588.76,1000.74,0.8,True
+Miami,Rome,bus,8339.5,8339.5,335.58,667.16,0.8,True
+Miami,Amsterdam,flight,7446.73,558.5,794.67,1861.68,0.8,True
+Miami,Amsterdam,train,7446.73,3723.36,382.34,446.8,0.8,True
+Miami,Amsterdam,car,7446.73,4964.48,526.27,893.61,0.8,True
+Miami,Amsterdam,bus,7446.73,7446.73,299.87,595.74,0.8,True
+San Francisco,London,flight,8616.43,646.23,911.64,2154.11,0.8,True
+San Francisco,London,train,8616.43,4308.22,440.82,516.99,0.8,True
+San Francisco,London,car,8616.43,5744.29,608.15,1033.97,0.8,True
+San Francisco,London,bus,8616.43,8616.43,346.66,689.31,0.8,True
+San Francisco,Paris,flight,8953.39,671.5,945.34,2238.35,0.8,True
+San Francisco,Paris,train,8953.39,4476.7,457.67,537.2,0.8,True
+San Francisco,Paris,car,8953.39,5968.93,631.74,1074.41,0.8,True
+San Francisco,Paris,bus,8953.39,8953.39,360.14,716.27,0.8,True
+San Francisco,Berlin,flight,9105.21,682.89,960.52,2276.3,0.8,True
+San Francisco,Berlin,train,9105.21,4552.6,465.26,546.31,0.8,True
+San Francisco,Berlin,car,9105.21,6070.14,642.36,1092.62,0.8,True
+San Francisco,Berlin,bus,9105.21,9105.21,366.21,728.42,0.8,True
+San Francisco,Madrid,flight,9318.04,698.85,981.8,2329.51,0.8,True
+San Francisco,Madrid,train,9318.04,4659.02,475.9,559.08,0.8,True
+San Francisco,Madrid,car,9318.04,6212.03,657.26,1118.17,0.8,True
+San Francisco,Madrid,bus,9318.04,9318.04,374.72,745.44,0.8,True
+San Francisco,Rome,flight,10047.46,753.56,1054.75,2511.87,0.8,True
+San Francisco,Rome,train,10047.46,5023.73,512.37,602.85,0.8,True
+San Francisco,Rome,car,10047.46,6698.31,708.32,1205.7,0.8,True
+San Francisco,Rome,bus,10047.46,10047.46,403.9,803.8,0.8,True
+San Francisco,Amsterdam,flight,8773.49,658.01,927.35,2193.37,0.8,True
+San Francisco,Amsterdam,train,8773.49,4386.74,448.67,526.41,0.8,True
+San Francisco,Amsterdam,car,8773.49,5848.99,619.14,1052.82,0.8,True
+San Francisco,Amsterdam,bus,8773.49,8773.49,352.94,701.88,0.8,True
+London,Paris,flight,343.56,25.77,84.36,85.89,0.8,True
+London,Paris,train,343.56,171.78,27.18,20.61,0.8,True
+London,Paris,car,343.56,229.04,29.05,41.23,0.8,True
+London,Paris,bus,343.56,343.56,15.74,27.48,0.8,True
+London,Berlin,flight,931.57,69.87,143.16,232.89,0.8,True
+London,Berlin,train,931.57,465.78,56.58,55.89,0.8,True
+London,Berlin,car,931.57,621.05,70.21,111.79,0.8,True
+London,Berlin,bus,931.57,931.57,39.26,74.53,0.8,True
+London,Madrid,flight,1263.41,94.76,176.34,315.85,0.8,True
+London,Madrid,train,1263.41,631.71,73.17,75.8,0.8,True
+London,Madrid,car,1263.41,842.27,93.44,151.61,0.8,True
+London,Madrid,bus,1263.41,1263.41,52.54,101.07,0.8,True
+London,Rome,flight,1433.78,107.53,193.38,358.45,0.8,True
+London,Rome,train,1433.78,716.89,81.69,86.03,0.8,True
+London,Rome,car,1433.78,955.85,105.36,172.05,0.8,True
+London,Rome,bus,1433.78,1433.78,59.35,114.7,0.8,True
+London,Amsterdam,flight,357.89,26.84,85.79,89.47,0.8,True
+London,Amsterdam,train,357.89,178.94,27.89,21.47,0.8,True
+London,Amsterdam,car,357.89,238.59,30.05,42.95,0.8,True
+London,Amsterdam,bus,357.89,357.89,16.32,28.63,0.8,True
+Paris,Berlin,flight,877.46,65.81,137.75,219.37,0.8,True
+Paris,Berlin,train,877.46,438.73,53.87,52.65,0.8,True
+Paris,Berlin,car,877.46,584.98,66.42,105.3,0.8,True
+Paris,Berlin,bus,877.46,877.46,37.1,70.2,0.8,True
+Paris,Madrid,flight,1052.89,78.97,155.29,263.22,0.8,True
+Paris,Madrid,train,1052.89,526.45,62.64,63.17,0.8,True
+Paris,Madrid,car,1052.89,701.93,78.7,126.35,0.8,True
+Paris,Madrid,bus,1052.89,1052.89,44.12,84.23,0.8,True
+Paris,Rome,flight,1105.28,82.9,160.53,276.32,0.8,True
+Paris,Rome,train,1105.28,552.64,65.26,66.32,0.8,True
+Paris,Rome,car,1105.28,736.85,82.37,132.63,0.8,True
+Paris,Rome,bus,1105.28,1105.28,46.21,88.42,0.8,True
+Paris,Amsterdam,flight,429.86,32.24,92.99,107.47,0.8,True
+Paris,Amsterdam,train,429.86,214.93,31.49,25.79,0.8,True
+Paris,Amsterdam,car,429.86,286.57,35.09,51.58,0.8,True
+Paris,Amsterdam,bus,429.86,429.86,19.19,34.39,0.8,True
+Berlin,Madrid,flight,1869.15,140.19,236.91,467.29,0.8,True
+Berlin,Madrid,train,1869.15,934.57,103.46,112.15,0.8,True
+Berlin,Madrid,car,1869.15,1246.1,135.84,224.3,0.8,True
+Berlin,Madrid,bus,1869.15,1869.15,76.77,149.53,0.8,True
+Berlin,Rome,flight,1182.55,88.69,168.25,295.64,0.8,True
+Berlin,Rome,train,1182.55,591.27,69.13,70.95,0.8,True
+Berlin,Rome,car,1182.55,788.36,87.78,141.91,0.8,True
+Berlin,Rome,bus,1182.55,1182.55,49.3,94.6,0.8,True
+Berlin,Amsterdam,flight,576.09,43.21,107.61,144.02,0.8,True
+Berlin,Amsterdam,train,576.09,288.04,38.8,34.57,0.8,True
+Berlin,Amsterdam,car,576.09,384.06,45.33,69.13,0.8,True
+Berlin,Amsterdam,bus,576.09,576.09,25.04,46.09,0.8,True
+Madrid,Rome,flight,1364.17,102.31,186.42,341.04,0.8,True
+Madrid,Rome,train,1364.17,682.09,78.21,81.85,0.8,True
+Madrid,Rome,car,1364.17,909.45,100.49,163.7,0.8,True
+Madrid,Rome,bus,1364.17,1364.17,56.57,109.13,0.8,True
+Madrid,Amsterdam,flight,1481.37,111.1,198.14,370.34,0.8,True
+Madrid,Amsterdam,train,1481.37,740.69,84.07,88.88,0.8,True
+Madrid,Amsterdam,car,1481.37,987.58,108.7,177.76,0.8,True
+Madrid,Amsterdam,bus,1481.37,1481.37,61.25,118.51,0.8,True
+Rome,Amsterdam,flight,1295.95,97.2,179.59,323.99,0.8,True
+Rome,Amsterdam,train,1295.95,647.97,74.8,77.76,0.8,True
+Rome,Amsterdam,car,1295.95,863.97,95.72,155.51,0.8,True
+Rome,Amsterdam,bus,1295.95,1295.95,53.84,103.68,0.8,True
